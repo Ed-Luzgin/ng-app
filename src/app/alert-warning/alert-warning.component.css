@@ -1,0 +1,10 @@
+.alert-warning {
+    color: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: 700;
+    background-color: rgb(141, 25, 25);
+    width: 400px;
+    height: 100px;
+}
